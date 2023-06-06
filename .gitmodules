@@ -1,0 +1,27 @@
+[submodule "01_validation/ext/GUnit"]
+	path = 01_validation/ext/GUnit
+	url = https://github.com/cpp-testing/GUnit.git
+[submodule "02_linked_hashs/ext/GUnit"]
+	path = 02_linked_hashs/ext/GUnit
+	url = https://github.com/cpp-testing/GUnit.git
+[submodule "03_refactor/ext/GUnit"]
+	path = 03_refactor/ext/GUnit
+	url = https://github.com/cpp-testing/GUnit.git
+[submodule "04_transactions/ext/GUnit"]
+	path = 04_transactions/ext/GUnit
+	url = https://github.com/cpp-testing/GUnit.git
+[submodule "05_signatures/ext/GUnit"]
+	path = 05_signatures/ext/GUnit
+	url = https://github.com/cpp-testing/GUnit.git
+[submodule "06_users/ext/GUnit"]
+	path = 06_users/ext/GUnit
+	url = https://github.com/cpp-testing/GUnit.git
+[submodule "07_consensus/ext/GUnit"]
+	path = 07_consensus/ext/GUnit
+	url = https://github.com/cpp-testing/GUnit.git
+[submodule "08_integration/ext/GUnit"]
+	path = 08_integration/ext/GUnit
+	url = https://github.com/cpp-testing/GUnit.git
+[submodule "09_coroutines/ext/GUnit"]
+	path = 09_coroutines/ext/GUnit
+	url = https://github.com/cpp-testing/GUnit.git

@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.22)
+project(c++-code-that-works)
+set(CMAKE_CXX_STANDARD 20)
+list(APPEND CMAKE_MODULE_PATH "${CMAKE_CURRENT_SOURCE_DIR}/cmake")
+find_package(Botan REQUIRED)
+add_subdirectory(src)
+add_subdirectory(tests)
+add_subdirectory(ext)
